@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+
+# Bases de datos locales (si no necesitas versionarlas)
+*.db
+*.sqlite
+*.sqlite3
